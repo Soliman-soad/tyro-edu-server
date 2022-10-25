@@ -1,0 +1,14 @@
+{
+  "name": "tyro-server",
+  "version": "1.0.0",
+  "description": "this is a server for tyro which is mainly learning platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soliman soad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
