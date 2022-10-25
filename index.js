@@ -7,9 +7,9 @@ const course = require('./data/course.json')
 app.use(cors())
 
 app.get('/',(req,res)=>{
-    res.send('welcome to tyro server')
+    res.send('welcome to tyro server');
 })
-app.get('courses',(req,res)=>{
+app.get('/courses',(req,res)=>{
     res.send(course)
 })
 
