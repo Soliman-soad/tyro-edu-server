@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name":"Data science",
+        "details":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.",
+        "time":"3 month",
+        "img":"https://img.freepik.com/free-vector/big-data-center-server-room-rack-engineering-process-teamwork-computer-technology-cloud-storage_39422-1032.jpg?w=740&t=st=1666667706~exp=1666668306~hmac=0f2f885ffec7483315e073e25a8ff0cf9abc0a5de186f1728d6d889731eb9f93"
+    },
+    {
+        "id":2,
+        "name":"Full stack web development",
+        "details":"The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.",
+        "time":"6 month",
+        "img":"https://img.freepik.com/free-vector/illustration-web-design_53876-18157.jpg?t=st=1666667757~exp=1666668357~hmac=3a96b6f438e97a9b3e113bafcd0135e90cfdb4bad3b179e5129d02b600a740d3"
+    },
+    {
+        "id":3,
+        "name":"Cybersecurity Analyst",
+        "details":"A growing number of exciting, well-paying jobs in today’s security industry do not require a college degree. This Professional Certificate will give you the technical skills to become job-ready for a Cybersecurity Analyst role. ",
+        "time":"4 month",
+        "img":"https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg?w=740&t=st=1666667955~exp=1666668555~hmac=8b77ce1149cbb441bec53991ea8a0aa242db4621db9b9e4ac24208a6283fd5f8"
+    },
+    {
+        "id":4,
+        "name":"DevOps and Software Engineering ",
+        "details":"The courses in this program will help you develop skill sets in a variety of DevOps philosophies and methodologies including Agile Development, Scrum Methodology, Cloud Native Architecture, Behavior and Test-Driven Development, and Zero Downtime Deployments.",
+        "time":"3 month",
+        "img":"https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149373211.jpg?w=740&t=st=1666668049~exp=1666668649~hmac=79e7449f0399423c0115cf1371928c378a3fbb088cdf0ec1c0ed9180c382050f"
+    },
+    {
+        "id":5,
+        "name":"IT Automation with Python",
+        "details":"This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.",
+        "time":"5 month",
+        "img":"https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=900&t=st=1666668102~exp=1666668702~hmac=b6c106b14e1be0217a5b691172d289408573e6afb3dadbbf1421a9e7f6db20ad"
+    },
+    {
+        "id":6,
+        "name":"AI & Machine Learning",
+        "details":"In this program, you will complete a real module from the online Master of Computer Science program that will help you understand artificial intelligence through a combination of both theory and practice. Through a series of interactive lectures and team-based projects, you will explore how machines learn in the form of learning paradigms, how to create autonomous agents that can reason, learn, and act on their own, and how to train and optimize deep neural networks.",
+        "time":"6 month",
+        "img":"https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=740&t=st=1666668231~exp=1666668831~hmac=18701b4eabbe14216bc77a091030e77464e2fd25887c7a21ae3755027492812a"
+    },
+    {
+        "id":7,
+        "name":"Introduction and Programming with IoT",
+        "details":"Internet of Things (IoT) is an emerging area of information and communications technology (ICT) involving many disciplines of computer science and engineering including sensors/actuators, communications networking, server platforms, data analytics and smart applications. IoT is considered to be an essential part of the 4th Industrial Revolution along with AI and Big Data. This course will be very useful to senior undergraduate and graduate students as well as engineers who are working in the industry.",
+        "time":"3 month",
+        "img":"https://img.freepik.com/free-vector/internet-things-iot-smart-connection-control-device-network-industry-resident-anywhere-anytime-anybody-any-business-with-internet-it-technology-futuristic-world_1150-61160.jpg?w=826&t=st=1666668173~exp=1666668773~hmac=d2886a54ba9f2d405438566be60ee97df329fe2f9c0cfe84bb4753cd3c08d633"
+    },
+    {
+        "id":8,
+        "name":"Digital Marketing Strategy and Planning",
+        "details":"Welcome to the Digital Marketing Institute’s foundational program on Digital Marketing Strategy. The DMI is the global standard in Digital Marketing Certification. If you are seeking to understand the forces that are driving and transforming businesses today and how an effective digital strategy can help a business to grow and thrive in this dynamic environment, this program will help you do so.",
+        "time":"2 month",
+        "img":"https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=740&t=st=1666667642~exp=1666668242~hmac=079669dc20bdf82574fc9fcd2f36f147a20efe6548bef3b5da81072d43c843b3"
+    }
+    
+]
