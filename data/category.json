@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Data"
+    },
+    {
+        "id":2,
+        "category":"ai"
+    },
+    {
+        "id":3,
+        "category":"web"
+    },
+    {
+        "id":4,
+        "category":"Iot"
+    },
+    {
+        "id":5,
+        "category":"Marketing"
+    }
+]

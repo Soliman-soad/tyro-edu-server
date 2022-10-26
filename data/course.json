@@ -1,6 +1,7 @@
 [
     {
         "id":1,
+        "category":"Data",
         "name":"Data science",
         "details":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.",
         "time":"3 month",
@@ -8,6 +9,7 @@
     },
     {
         "id":2,
+        "category":"web",
         "name":"Full stack web development",
         "details":"The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.",
         "time":"6 month",
@@ -15,6 +17,7 @@
     },
     {
         "id":3,
+        "category":"Data",
         "name":"Cybersecurity Analyst",
         "details":"A growing number of exciting, well-paying jobs in today’s security industry do not require a college degree. This Professional Certificate will give you the technical skills to become job-ready for a Cybersecurity Analyst role. ",
         "time":"4 month",
@@ -22,6 +25,7 @@
     },
     {
         "id":4,
+        "category":"web",
         "name":"DevOps and Software Engineering ",
         "details":"The courses in this program will help you develop skill sets in a variety of DevOps philosophies and methodologies including Agile Development, Scrum Methodology, Cloud Native Architecture, Behavior and Test-Driven Development, and Zero Downtime Deployments.",
         "time":"3 month",
@@ -29,6 +33,7 @@
     },
     {
         "id":5,
+        "category":"aI",
         "name":"IT Automation with Python",
         "details":"This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.",
         "time":"5 month",
@@ -36,6 +41,7 @@
     },
     {
         "id":6,
+        "category":"ai",
         "name":"AI & Machine Learning",
         "details":"In this program, you will complete a real module from the online Master of Computer Science program that will help you understand artificial intelligence through a combination of both theory and practice. Through a series of interactive lectures and team-based projects, you will explore how machines learn in the form of learning paradigms, how to create autonomous agents that can reason, learn, and act on their own, and how to train and optimize deep neural networks.",
         "time":"6 month",
@@ -43,6 +49,7 @@
     },
     {
         "id":7,
+        "category":"Iot",
         "name":"Introduction and Programming with IoT",
         "details":"Internet of Things (IoT) is an emerging area of information and communications technology (ICT) involving many disciplines of computer science and engineering including sensors/actuators, communications networking, server platforms, data analytics and smart applications. IoT is considered to be an essential part of the 4th Industrial Revolution along with AI and Big Data. This course will be very useful to senior undergraduate and graduate students as well as engineers who are working in the industry.",
         "time":"3 month",
@@ -50,6 +57,7 @@
     },
     {
         "id":8,
+        "category":"Marketing",
         "name":"Digital Marketing Strategy and Planning",
         "details":"Welcome to the Digital Marketing Institute’s foundational program on Digital Marketing Strategy. The DMI is the global standard in Digital Marketing Certification. If you are seeking to understand the forces that are driving and transforming businesses today and how an effective digital strategy can help a business to grow and thrive in this dynamic environment, this program will help you do so.",
         "time":"2 month",
